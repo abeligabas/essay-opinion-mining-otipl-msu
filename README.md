@@ -1,5 +1,5 @@
 # essay-opinion-mining-otipl-msu
-This project was created during the course "Project tasks of computational linguistics" in the second semester of the 2025-2026 academic year
+Этот проект был создан в ходе изучения курса "Проектные задачи компьютерной лингвистики" во втором семестре 2025-2026 учебного года.
 
 Тема проекта: "Извлечение мнений из аналитических статей и эссе"
 Авторы проекта: Анна Прокопьева, Анна Расюкевич, Алиса Рогачёва
